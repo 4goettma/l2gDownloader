@@ -1,6 +1,8 @@
 # l2gDownloader
-Shell-Script für Download von lecture2go-Videos  
+Shell-Script für den Download von lecture2go-Videos  
   
+# cli-Hilfe
+
 Usage: ./l2gDownloader.sh [-(va) URL [-p PASSPHRASE] [-r] [-c]]  
   
 Options:  
