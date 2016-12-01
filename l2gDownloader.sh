@@ -9,8 +9,6 @@
 # - Audio-Konvertierung um Größenanzeige erweitern?
 # - ffmpeg-missing-Case besser einbinden
 
-# - ausprobieren, ob Vorlesungs-Titel korrekt genug erkannt wird, um als Ordnername verwendet zu werden
-
 # http://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script
 type ffmpeg >/dev/null 2>&1 || echo -e "[WARNING] Couldn't find ffmpeg!"
 
