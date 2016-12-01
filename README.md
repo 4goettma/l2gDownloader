@@ -1,5 +1,5 @@
 # l2gDownloader
-Shell-Script für den Download von lecture2go-Videos  
+Shell-Script für den Download von lecture2go-Videos, welches nicht nur die Möglichkeit bietet, Videos im Terminal anstatt im Browser herunterzuladen, sondern auch den Download von ganzen Vorlesungsreihen sowie den von nicht offiziell zum Download freigegebenen Videos ermöglicht.
 
 Das Skript kann mithilfe von "alias" referenziert werden, wodurch es sich wie ein installiertes Programm verhält. Das Speichern der heruntergeladenen Videos erfolgt im aktuellen Arbeitsverzeichnis.
   
