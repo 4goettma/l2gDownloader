@@ -271,7 +271,7 @@ if [ "$video" != "" ]
 then
     download $all $reverse $checksum $mp3 $cookie $video $passwort $selection
 else
-    echo -e "Usage: $0 [-(va) URL [-p PASSPHRASE] [-r] [-c]]\n"
+    echo -e "Usage: $0 [-(va) URL [-p PASSPHRASE] [-i TOKEN] [-r] [-c] [-m] [-s RANGE]]\n"
 #   echo -e "Usage: $0 (-[va] URL (-p PASSPHRASE) (-r) (-c))\n" #better?
     echo "Options:"
     echo "  -v URL        Download a video."

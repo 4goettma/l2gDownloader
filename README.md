@@ -5,7 +5,7 @@ Das Skript kann mithilfe von "alias" referenziert werden, wodurch es sich wie ei
   
 # cli-Hilfe
 
-Usage: ./l2gDownloader.sh [-(va) URL [-p PASSPHRASE] [-r] [-c]]  
+Usage: ./l2gDownloader.sh [-(va) URL [-p PASSPHRASE] [-i TOKEN] [-r] [-c] [-m] [-s RANGE]]
   
 Options:  
 &nbsp;&nbsp;-v URL        Download a video.  
