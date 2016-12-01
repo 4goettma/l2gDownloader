@@ -1,5 +1,7 @@
 # l2gDownloader
 Shell-Script für den Download von lecture2go-Videos  
+
+Das Skript kann mithilfe von "alias" referenziert werden, wodurch es sich wie ein installiertes Programm verhält. Das Speichern der heruntergeladenen Videos erfolgt im aktuellen Arbeitsverzeichnis.
   
 # cli-Hilfe
 
