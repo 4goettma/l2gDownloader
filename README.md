@@ -36,7 +36,7 @@ Examples:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download all videos of this lecture series with given passphrase.
   
 &nbsp;&nbsp;./l2gDownloader.sh -v https://lecture2go.uni-hamburg.de/l2go/-/get/l/4774 -rc  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or  
 &nbsp;&nbsp;./l2gDownloader.sh -v https://lecture2go.uni-hamburg.de/l2go/-/get/l/4774 -c -r  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download all videos of this lecture series in reverse order, compute add checksums to file name.
   
