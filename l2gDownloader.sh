@@ -1,14 +1,5 @@
 #!/bin/sh
 
-################################################################################################################################
-# This is a download script for Lecture2Go (www.lecture2go.uni-hamburg.de).                                                    #
-# Very often you are able to download the video on the website. If the download button is missing, just use this tool... ;)    #
-# Addionally, you can download even whole playlists of videos with this tools, no matter whether they are password-protected   #
-# or not!                                                                                                                      #
-# All you need is a linux or cygwin environment because it uses just basic tools like curl, grep and head.                     #
-# Created on a few cold and rainy evenings in October/November 2016 with the help of mate and chocolate!                       #
-################################################################################################################################
-
 ### TODO ###
 # - Passwörter aus/in Liste lesen/schreiben
 # - Option für kurze Namen
