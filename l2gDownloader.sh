@@ -299,7 +299,7 @@ else
     echo -e "  It's not possible to continue canceled downloads."
     echo -e "  It's not possible to save the downloaded videos into another directory."
     echo -e "  It's not possible to save already used passphrases to a file and try to use them next time automatically."
-    echo -e "\n  Maybe I will adress some of these limitations in the future."
+    echo -e "\n  Maybe I will adress some of these limitations in future updates."
     
     echo -e "\nDependencies:"
     echo -e "  curl, getopts, md5sum, stat, grep, sed, head, cat, tac, ..."
